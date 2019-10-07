@@ -1,0 +1,31 @@
+_repo: Choix-de-cinquante-dessins-de-Michel-Angelo_60394
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Michelangelo Buonarroti
+    alias: Buonarroti, Michelangelo
+    birthdate: 1475
+    deathdate: 1564
+    gutenberg_agent_id: '3463'
+    url: http://www.gutenberg.org/2009/agents/3463
+    wikipedia: http://en.wikipedia.org/wiki/Michelangelo
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Beaux-Arts
+gutenberg_issued: '2019-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60394'
+  lccn: '27006939'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Dessins et peintures des maîtres anciens 1er volume
+subjects:
+- !lcsh 'Drawing, Italian'
+- !lcc 'NC'
+- GITenberg
+title: Choix de cinquante dessins de Michel-Angelo
+url: http://www.gutenberg.org/ebooks/60394
